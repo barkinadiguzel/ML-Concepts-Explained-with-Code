@@ -27,7 +27,7 @@ for epoch in range(epochs):
 x2 = torch.tensor([x_init], dtype=torch.float32)
 x2_list = []
 y2_list = []
-
+ 
 for epoch in range(epochs):
     x2 = x2 - 0.01 * grad(x2)
     x2_list.append(x2.item())
