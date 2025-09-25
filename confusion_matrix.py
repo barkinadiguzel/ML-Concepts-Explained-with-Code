@@ -13,7 +13,7 @@ X = torch.tensor([
     [0.5, 0.7], [6.0, 8.0]
 ])
 y = torch.tensor([0,0,1,1,0,0,1,1,2,2])  # 3 classes: 0,1,2
-
+ 
 # --- Simple MLP model ---
 class SimpleMLP(nn.Module):
     def __init__(self):
