@@ -23,7 +23,7 @@ augmentations = {
     "Color Jitter": transforms.ColorJitter(brightness=0.5, contrast=0.5, saturation=0.5),
     "Random Crop": transforms.RandomResizedCrop(size=(32,32), scale=(0.8,1.0))
 }
-
+ 
 # --- Apply augmentations ---
 aug_images = {}
 for name in augmentations:
