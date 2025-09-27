@@ -3,7 +3,7 @@
 import torch
 import torch.nn as nn
 import matplotlib.pyplot as plt
-
+ 
 # ------------------------
 # 1️⃣ Simple input
 # ------------------------
