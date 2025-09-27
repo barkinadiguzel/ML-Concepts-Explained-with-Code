@@ -1,5 +1,5 @@
 # msa_visualization_safe.py
-
+ 
 import torch
 import torch.nn as nn
 import matplotlib.pyplot as plt
