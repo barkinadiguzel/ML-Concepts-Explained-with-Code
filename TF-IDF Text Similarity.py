@@ -1,5 +1,5 @@
 """
-TF-IDF Text Similarity Demo
+TF-IDF Text Similarity
 ---------------------------
 This script demonstrates how to:
 1. Represent text data as numerical vectors using TF-IDF.
