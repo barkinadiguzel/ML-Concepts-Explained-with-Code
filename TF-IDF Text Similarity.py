@@ -5,7 +5,7 @@ This script demonstrates how to:
 1. Represent text data as numerical vectors using TF-IDF.
 2. Compare a query sentence against a set of documents.
 3. Find the most similar sentences using cosine similarity.
-
+ 
 It's designed as an educational project for beginners in NLP & ML.
 """
 
