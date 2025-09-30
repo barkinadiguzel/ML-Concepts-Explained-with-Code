@@ -4,7 +4,7 @@ Mixup Augmentation
 Creates new training samples by mixing pairs of images.
 Formula: mixed = lambda * img1 + (1-lambda) * img2
 """
-
+ 
 import torch
 from torchvision import datasets, transforms
 import matplotlib.pyplot as plt
