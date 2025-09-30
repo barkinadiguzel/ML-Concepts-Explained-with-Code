@@ -13,7 +13,7 @@ Benefits:
 - Saves training time
 - No need to manually pick the right number of epochs
 """
-
+ 
 import torch
 import torch.nn as nn
 import matplotlib.pyplot as plt
